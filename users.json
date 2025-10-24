@@ -1,0 +1,31 @@
+[
+  {
+    "Login": "valery13h",
+    "Password": "123456789",
+    "BirthDate": "2009-01-13T00:00:00",
+    "Results": [
+      {
+        "QuizName": "Mixed",
+        "Score": 0,
+        "Date": "2025-10-24T18:30:57.192713+03:00"
+      },
+      {
+        "QuizName": "Harry Potter",
+        "Score": 0,
+        "Date": "2025-10-24T18:31:30.291166+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "lera13h",
+    "Password": "1234512345",
+    "BirthDate": "2009-01-13T00:00:00",
+    "Results": [
+      {
+        "QuizName": "Mixed",
+        "Score": 2,
+        "Date": "2025-10-24T18:34:19.872059+03:00"
+      }
+    ]
+  }
+]
